@@ -1,7 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SIProjectSet1",
+    "\\SIProjectSet1\\Controllers",
+    "\\SIProjectSet1\\Entities",
+    "\\SIProjectSet1\\Infrastructure"
   ],
-  "SelectedNode": "\\C:\\Users\\User\\Source\\Repos\\SI_Grupa1",
+  "SelectedNode": "\\SIProjectSet1\\Infrastructure\\SIProjectSet1Context.cs",
   "PreviewInSolutionExplorer": false
 }
